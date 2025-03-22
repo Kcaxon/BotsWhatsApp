@@ -26,4 +26,10 @@ client.on('message', async msg => {
     }
 });
 
+client.on('message', async msg => {
+    if (msg.body.toLowerCase() === 'chao') {
+        msg.reply('¡chao! 😎​');
+    }
+});
+
 client.initialize();
