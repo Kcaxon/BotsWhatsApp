@@ -1,0 +1,6 @@
+2025/03/21-22:33:59.684 44d8 Reusing MANIFEST C:\Users\maury\Desktop\whatsapp-bc\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/21-22:33:59.684 44d8 Recovering log #3
+2025/03/21-22:33:59.685 44d8 Reusing old log C:\Users\maury\Desktop\whatsapp-bc\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/03/21-22:35:00.189 d44 Level-0 table #5: started
+2025/03/21-22:35:00.191 d44 Level-0 table #5: 17845 bytes OK
+2025/03/21-22:35:00.191 d44 Delete type=0 #3
